@@ -76,7 +76,7 @@ It highlights core **Data Analyst skills** such as data cleaning, analysis, visu
 ## 📊 Dashboard Preview  
 
 ### 🔹 Main Dashboard  
-![Main Dashboard](https://adniasolutions.com/wp-content/uploads/2020/09/03-Excel-Dashboard-Layout-Duo-Theme-01-Light.png)
+![Main Dashboard](./03-Excel-Dashboard-Layout-Duo-Theme-01-Light-900x484.png.webp)
 
 
 📌 *To display images correctly:*  

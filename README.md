@@ -7,7 +7,7 @@
 ## 🧠 Project Overview  
 
 This project demonstrates the complete **Data Analysis lifecycle**, starting from raw data collection to final dashboard creation and insights generation.  
-It showcases practical skills required for a **Data Analyst role**, including data cleaning, analysis, visualization, and business storytelling.
+It highlights core **Data Analyst skills** such as data cleaning, analysis, visualization, and storytelling.
 
 ---
 
@@ -16,8 +16,8 @@ It showcases practical skills required for a **Data Analyst role**, including da
 - Understand the business problem  
 - Clean and prepare raw data  
 - Perform exploratory data analysis (EDA)  
-- Create interactive dashboards  
-- Generate actionable insights for decision-making  
+- Build interactive dashboards  
+- Generate actionable insights  
 
 ---
 
@@ -27,7 +27,7 @@ It showcases practical skills required for a **Data Analyst role**, including da
 |-----|--------|
 | Excel | Data cleaning & preprocessing |
 | SQL | Data querying & transformations |
-| Power BI / Tableau | Data visualization & dashboards |
+| Power BI / Tableau | Dashboard & visualization |
 | Python (optional) | Advanced analysis |
 | GitHub | Version control & documentation |
 
@@ -41,7 +41,7 @@ It showcases practical skills required for a **Data Analyst role**, including da
 - 📁 SQL_Queries/ → SQL scripts  
 - 📁 Dashboards/ → Power BI / Tableau files  
 - 📁 Screenshots/ → Dashboard images  
-- 📄 Insights_Report.pdf → Final analysis report  
+- 📄 Insights_Report.pdf → Final report  
 
 ---
 
@@ -49,66 +49,65 @@ It showcases practical skills required for a **Data Analyst role**, including da
 
 ### 1️⃣ Data Collection  
 - Imported data from CSV / Excel / Database  
-- Reviewed data structure and quality  
+- Checked data quality  
 
 ### 2️⃣ Data Cleaning  
 ✔ Removed duplicates  
 ✔ Handled missing values  
 ✔ Standardized date formats  
-✔ Renamed columns for clarity  
+✔ Renamed columns  
 
 ### 3️⃣ Data Analysis  
-- Performed exploratory data analysis  
-- Used SQL for aggregations and filtering  
-- Identified trends and patterns  
+- Exploratory data analysis  
+- SQL-based aggregations  
+- Trend & pattern identification  
 
 ### 4️⃣ Data Visualization  
-- Created interactive dashboards  
-- Used charts, slicers, and KPIs  
-- Designed business-friendly visuals  
+- Interactive dashboards  
+- KPIs, charts, slicers  
+- Business-focused design  
 
 ### 5️⃣ Insights & Reporting  
-- Highlighted key performance indicators  
-- Identified opportunities and risks  
-- Provided data-driven recommendations  
+- Key performance metrics  
+- Actionable recommendations  
 
 ---
 
 ## 📊 Dashboard Preview  
 
-Key visuals included:  
-- KPI Cards (Totals, Averages, Growth %)  
-- Time-based trend analysis  
-- Category-wise and region-wise comparison  
-- Interactive filters and slicers  
+### 🔹 Main Dashboard  
+![Main Dashboard](https://adniasolutions.com/wp-content/uploads/2020/09/03-Excel-Dashboard-Layout-Duo-Theme-01-Light.png)
 
-📌 Dashboard screenshots are available in the `Screenshots/` folder  
+
+📌 *To display images correctly:*  
+- Save images inside the `Screenshots/` folder  
+- Use `.png` or `.jpg` format  
+- File names must match exactly  
 
 ---
 
 ## 🔍 Key Insights  
 
-- Significant growth observed in selected periods  
-- Top categories contribute the majority of results  
-- Certain regions show high potential for improvement  
-- Performance varies based on time and location  
+- Strong performance observed in selected time periods  
+- Top categories drive maximum impact  
+- Regional trends highlight growth opportunities  
 
 ---
 
 ## 💡 Business Recommendations  
 
-- Focus on high-performing segments  
-- Improve strategy for underperforming areas  
-- Optimize resources based on peak trends  
+- Invest more in high-performing segments  
+- Improve strategy for underperforming regions  
+- Optimize operations during peak demand  
 
 ---
 
 ## 🚀 How to Run This Project  
 
-1. Download or clone the repository  
-2. Open the dataset from the `Data/` folder  
-3. Execute SQL queries if applicable  
-4. Open the dashboard file in Power BI / Tableau  
+1. Clone or download the repository  
+2. Open data from the `Data/` folder  
+3. Run SQL queries (if applicable)  
+4. Open Power BI / Tableau dashboard  
 5. Explore insights interactively  
 
 ---
@@ -116,7 +115,7 @@ Key visuals included:
 ## 📌 Skills Demonstrated  
 
 ✅ Data Cleaning  
-✅ SQL Querying  
+✅ SQL Queries  
 ✅ Data Visualization  
 ✅ Dashboard Design  
 ✅ Business Insight Generation  
@@ -128,11 +127,10 @@ Key visuals included:
 **Name:** Amrita Vaidya  
 **Role:** Aspiring Data Analyst  
 **Skills:** Excel | SQL | Power BI | Tableau | Python  
-**Career Goal:** Data Analyst role with growth opportunities  
 
 ---
 
 ## ⭐ Final Note  
 
-If you found this project useful, please ⭐ star the repository.  
-Feedback and suggestions are always welcome!
+If you found this project helpful, please ⭐ star the repository.  
+Feedback and suggestions are welcome!
